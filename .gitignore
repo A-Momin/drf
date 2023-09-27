@@ -1,0 +1,21 @@
+
+#=============================
+#=============================
+**/__pycache__/**
+.pyc
+logs
+db.sqlite3
+**htmlcov/**
+.DS_Store
+tst_*
+.ipynb_checkpoints
+tmp
+*_initial.py
+**home.html
+.coverage
+.secrets*
+*pvt*
+**tmp/**
+*venv
+commits.txt
+# =============================
